@@ -1,0 +1,17 @@
+{
+  "name": "cryptoprice",
+  "version": "1.0",
+  "description": "A simple script to fetch crypto price",
+  "main": "app.js",
+  "author": "S. Atchay Varma ⚡",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.16",
+    "twitter-api-client": "^1.5.2"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
