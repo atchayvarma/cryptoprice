@@ -14,13 +14,13 @@ Change the following env variables with yours:
 
 CRYPTOKEY (CoinMarketCap API Key)
   
-API_KEY  (Twiiter API Key)
+API_KEY  (Twitter API Key)
 
-API_SECRET (Twiiter API Secret)
+API_SECRET (Twitter API Secret)
 
-ACCESS_TOKEN (Twiiter Access Token)
+ACCESS_TOKEN (Twitter Access Token)
 
-ACCESS_TOKEN_SECRET (Twiiter Access Token Secret)
+ACCESS_TOKEN_SECRET (Twitter Access Token Secret)
 
 ## To get Twitter Keys
 Create a twitter app and get your keys 
