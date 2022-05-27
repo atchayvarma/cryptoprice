@@ -25,7 +25,7 @@ ACCESS_TOKEN_SECRET (Twitter Access Token Secret)
 ## To get Twitter Keys
 Create a twitter app and get your keys 
 
-https://developer.twitter.com/en/portal/projects-and-apps
+https://developer.twitter.com/apps
 
 ## Follow in Twitter 
  https://twitter.com/Crypt03ot (Bot 🤖)
